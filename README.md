@@ -1,9 +1,9 @@
 #Template SLiMS 8 : Desawarna Teh
 
 
-Template ini adalah template HTML yang saya unduh dari  [FreeHTML5.co](http://freehtml5.co/) saya redesain ulang dengan konsep bungkus teh celup :smile: , penggantian font , warna dan efek santai. Dari HTML tadi kemudian saya porting ke php sehingga dapat digunakan ke dalam SLIMS  [SLiMS.Web.Id(http://slims.web.id)]
+Template ini adalah template HTML yang saya unduh dari  [FreeHTML5.co](http://freehtml5.co/) saya redesain ulang dengan konsep bungkus teh celup :smile: , penggantian font , warna dan efek santai. Dari HTML tadi kemudian saya porting ke php sehingga dapat digunakan ke dalam SLIMS  [SLiMS.Web.Id](http://slims.web.id)
 
-Tutorial ada di [SLimsKudus.Web.Id(http://slimskudus.web.id)]
+Tutorial ada di [SLimsKudus.Web.Id](http://slimskudus.web.id)
 
 Untuk menggunakan nya / cara install template SLiMS 8.3.x desawarna_teh :
 1. Download 
